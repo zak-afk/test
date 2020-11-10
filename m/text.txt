@@ -1,6 +1,0 @@
-abcde
-nop mouchkiel
-add
-some
-text:0
-hahah
